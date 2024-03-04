@@ -1,0 +1,22 @@
+<div class="row product-details" *ngIf="answer" >
+ <div class="col-sm-6">
+
+  <img class="product-image" src="{{answer.image}}" alt="">
+ </div>
+ <div class="col-sm-6">
+    <div class="detaila">
+    <h1>{{answer.name}}</h1>
+    <h3>Price : {{answer.price}} </h3>
+    <h3>Category :{{answer.category}}</h3>
+    <h3>description :{{answer.description}}</h3>
+    
+    <button *ngIf="removeCart" (click)=" removeToCart(answer.id)">Remove to Cart</button>
+    <button *ngIf="!removeCart"  (click)="AddToCart()">Add to Cart</button>
+    <div class="quantity-group">
+        <button (click)="myproduct('minus')">-</button>
+        <input type="text" value="{{ans}}" />
+        <button (click)="myproduct('plus')">+</button>
+    </div>
+    </div>
+ </div>
+</div>

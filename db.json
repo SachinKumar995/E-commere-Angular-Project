@@ -1,0 +1,294 @@
+{
+  "seller": [
+    {
+      "name": " Mishra",
+      "email": "xyz@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sachin Kumar Mishra",
+      "password": "123456",
+      "email": "mishras7681@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "admin@admin",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "name": "Tannu ",
+      "password": "123456789",
+      "email": "mishras7681@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Shubham Singh",
+      "password": "123456789",
+      "email": "mishras7681@gmail.com",
+      "id": 5
+    }
+  ],
+  "Product": [
+    {
+      "name": "oppo",
+      "price": "15000",
+      "category": "mobile",
+      "description": "best phone 5g",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/OV/XU/MN/148217327/oppo-a76-mobile-phone.jpg",
+      "id": 4
+    },
+    {
+      "name": "samsung",
+      "price": "200000",
+      "category": "mobile",
+      "description": "mobile accha hai",
+      "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 8
+    },
+    {
+      "name": "H.p",
+      "price": "850000",
+      "category": "Laptop",
+      "description": "Best product ",
+      "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06596684.png",
+      "id": 9
+    },
+    {
+      "name": "Apache",
+      "price": "120000",
+      "category": "Bike",
+      "description": "Black color",
+      "image": "https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2020/08/TVS-Apache-RTR180.jpg?resize=1000%2C750&ssl=1",
+      "id": 10
+    },
+    {
+      "name": "Apple ",
+      "price": "15,00,00",
+      "category": "Mobile",
+      "description": "high Demanding product",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369818",
+      "id": 11
+    },
+    {
+      "name": "Guitar",
+      "price": "50000",
+      "category": "mucic instrument",
+      "description": "black and red very beautifuy designed ",
+      "image": "https://media.istockphoto.com/id/1397013109/photo/acoustic-guitar-against-blank-wooden-plank-panel-grunge-background-with-copy-space.jpg?s=612x612&w=0&k=20&c=4jI2DyT1VMg04jd3svCQFcI6ahVInA1DLtibCEwM8TY=",
+      "id": 12
+    }
+  ],
+  "user": [
+    {
+      "name": "SACHIN KUMAR MISHRA",
+      "email": "admin@admin",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "SACHIN KUMAR MISHRA",
+      "email": "admin@admin",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Sachin Kumar Mishra",
+      "email": "mishras7681@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "SACHIN KUMAR MISHRA",
+      "email": "admin@admin",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "Sachin Kumar Mishra",
+      "email": "mishras7681@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "sachin",
+      "email": "admin@admin",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "END",
+      "email": "xyz@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "Sachin Kumar Mishra",
+      "email": "sachinaurangabad995@gmail.com",
+      "password": "13",
+      "id": 8
+    },
+    {
+      "name": "Sony",
+      "email": "sac@gmail.com",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "name": "Sachin Kumar Mishra",
+      "email": "mishras7681@gmail.com",
+      "password": "123456",
+      "id": 10
+    },
+    {
+      "name": "SACHIN KUMAR MISHRA",
+      "email": "xyz@gmail.com",
+      "password": "123456",
+      "id": 11
+    },
+    {
+      "name": "SACHIN KUMAR MISHRA",
+      "email": "sachinaurangabad995@gmail.com",
+      "password": "123456",
+      "id": 12
+    },
+    {
+      "name": "SACHIN KUMAR MISHRA",
+      "email": "admin@admin",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "sachin",
+      "email": "sac@gmail.com",
+      "password": "123456",
+      "id": 14
+    },
+    {
+      "name": "saurabh",
+      "email": "sac@gmail.com",
+      "password": "789456",
+      "id": 15
+    },
+    {
+      "name": "tannu ji",
+      "email": "tannuji@gmail.com",
+      "password": "7681",
+      "id": 16
+    },
+    {
+      "name": "Shubham Singh",
+      "email": "admin@admin",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "name": "mishra",
+      "email": "mishras7681@gmail.com",
+      "password": "987654",
+      "id": 18
+    },
+    {
+      "name": "Radha kumari",
+      "email": "radha@123",
+      "password": "789456",
+      "id": 19
+    },
+    {
+      "name": "rahul",
+      "email": "admin@admin",
+      "password": "1234",
+      "id": 20
+    }
+  ],
+  "cart": [
+    {
+      "name": "samsung",
+      "price": "200000",
+      "category": "mobile",
+      "description": "mobile accha hai",
+      "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "quantity": 1,
+      "userId": 18,
+      "productId": 8,
+      "id": 56
+    },
+    {
+      "name": "samsung",
+      "price": "200000",
+      "category": "mobile",
+      "description": "mobile accha hai",
+      "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "quantity": 1,
+      "userId": 18,
+      "productId": 8,
+      "id": 57
+    },
+    {
+      "name": "samsung",
+      "price": "200000",
+      "category": "mobile",
+      "description": "mobile accha hai",
+      "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "quantity": 1,
+      "userId": 18,
+      "productId": 8,
+      "id": 58
+    },
+    {
+      "name": "Guitar",
+      "price": "50000",
+      "category": "mucic instrument",
+      "description": "black and red very beautifuy designed ",
+      "image": "https://media.istockphoto.com/id/1397013109/photo/acoustic-guitar-against-blank-wooden-plank-panel-grunge-background-with-copy-space.jpg?s=612x612&w=0&k=20&c=4jI2DyT1VMg04jd3svCQFcI6ahVInA1DLtibCEwM8TY=",
+      "quantity": 1,
+      "userId": 18,
+      "productId": 12,
+      "id": 59
+    },
+    {
+      "name": "oppo",
+      "price": "15000",
+      "category": "mobile",
+      "description": "best phone 5g",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/OV/XU/MN/148217327/oppo-a76-mobile-phone.jpg",
+      "quantity": 1,
+      "userId": 19,
+      "productId": 4,
+      "id": 60
+    },
+    {
+      "name": "Guitar",
+      "price": "50000",
+      "category": "mucic instrument",
+      "description": "black and red very beautifuy designed ",
+      "image": "https://media.istockphoto.com/id/1397013109/photo/acoustic-guitar-against-blank-wooden-plank-panel-grunge-background-with-copy-space.jpg?s=612x612&w=0&k=20&c=4jI2DyT1VMg04jd3svCQFcI6ahVInA1DLtibCEwM8TY=",
+      "quantity": 2,
+      "userId": 19,
+      "productId": 12,
+      "id": 61
+    },
+    {
+      "name": "H.p",
+      "price": "850000",
+      "category": "Laptop",
+      "description": "Best product ",
+      "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06596684.png",
+      "quantity": 1,
+      "userId": 20,
+      "productId": 9,
+      "id": 63
+    }
+  ],
+  "orders": [
+    {
+      "email": "sachinaurangabad995@gmail.com",
+      "address": "xyz",
+      "details": "78954551",
+      "totalPrice": 445100,
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}

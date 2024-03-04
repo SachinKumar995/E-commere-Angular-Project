@@ -1,0 +1,49 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Checkout container */
+.checkout {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Checkout header */
+.checkout h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Form container */
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.col-sm-7 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+/* Form styles */
+.common-form {
+    margin-top: 20px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.form-input:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+/* Optional: adjust form label styles */

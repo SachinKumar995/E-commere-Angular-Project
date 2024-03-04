@@ -1,0 +1,57 @@
+.user-auth {
+    max-width: 400px;
+    margin: auto;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+
+    background-color: #f9f9f9;
+}
+
+.user-auth h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-auth form {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-auth input[type="text"],
+.user-auth input[type="password"],
+.user-auth button {
+    margin-bottom: 25px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.user-auth button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.user-auth button:hover {
+    background-color: #0056b3;
+}
+.user-auth {
+    margin-top: 40px;
+  }
+  
+
+.user-auth a {
+    text-decoration: none;
+    color: #007bff;
+    text-align: center;
+    display: block;
+    margin-top: 10px; /* Adjust as needed */
+}
+
+.user-auth a:hover {
+    color: #0056b3;
+}
+button:disabled{
+    cursor:not-allowed
+}
